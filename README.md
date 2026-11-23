@@ -23,7 +23,8 @@ Technology at Arizona State University.
 
 ## Network Architecture
 
-![Homelab Topology](diagrams/homelab-topology.png)
+![Homelab Topology](<img width="911" height="459" alt="image" src="https://github.com/user-attachments/assets/5d8746e5-6d3c-4756-baed-5d223a26665d" />
+)
 
 ## Projects
 
